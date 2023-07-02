@@ -15,13 +15,22 @@ Every living thing in the world needs access to water to survive. Research shows
 Methodology(Material and Methods)
 
 Description about dataset.
+
 Problem identification.
+
 Data Extraction.
+
 Data exploration.
+
 Data cleaning.
+
 Data selection.
+
 Data spiliting.
+
 Data Modelling,(going to apply Random forest, Decision tree, Linear Regression, and XGB boost ML techniques to predict the water quality).
+
 Model Evaluation.
+
 Model Optimization.
 
